@@ -23,7 +23,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   
-  <img align="right" alt="Ashik-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/64531121?s=400&u=081e328666cebf540b7b6a1a933870988408e186&v=4?width=676&height=676">
+  <img align="right" alt="Ashik-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/34137227?s=400&u=8deb71181ebf7325b60649d672ce393cd43a9396&v=4">
 </div>
   
   ##
